@@ -1,0 +1,7 @@
+__vscode__
+__pycache__
+*.pyc
+logs
+jupyter 
+notebook
+weights
