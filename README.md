@@ -43,7 +43,7 @@ It will finally in the following structure:
 
 ## Download checkpoints
 
-Then, download pretrained checkpoints from [Google Drive](https://drive.google.com/file/d/13BhG8rDrc1Q66dOvcFbxVf5JSJqMpvTF/view?usp=sharing). Unzip the file and put them into ```weights```
+Then, download pretrained checkpoints from [Google Drive](https://drive.google.com/drive/folders/10yMWoHfqXcHNlnV9QDOe36R26RlvQ3VC?usp=sharing). Unzip the file and put them into ```weights```
 
 
 ## Headless Machines
